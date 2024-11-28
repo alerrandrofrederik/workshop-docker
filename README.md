@@ -19,4 +19,4 @@ comando para criar um conteiner a parti da imagemm
 docker run -d -p 8501:8501 --name meu-primeiro-conteiner minha-primeira-imagem
 ```
 
-continuar rodar aplicação no render
+continuar rodar aplicação na AWS no Render já foi...
